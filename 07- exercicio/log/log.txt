@@ -1,0 +1,240 @@
+Plataforma: win32
+Arquitetura: x64
+CPU: Intel(R) Celeron(R) CPU  J1800  @ 2.41GHz
+Tempo de atividade: 49h 55min 58s
+Memoria total: 7.90 Gb
+Memoria Livre: 3.94 Gb
+Porcentagem utilizada: 50.06%
+-----------
+
+
+Plataforma: win32
+Arquitetura: x64
+CPU: Intel(R) Celeron(R) CPU  J1800  @ 2.41GHz
+Tempo de atividade: 49h 55min 59s
+Memoria total: 7.90 Gb
+Memoria Livre: 3.93 Gb
+Porcentagem utilizada: 50.18%
+-----------
+
+
+Plataforma: win32
+Arquitetura: x64
+CPU: Intel(R) Celeron(R) CPU  J1800  @ 2.41GHz
+Tempo de atividade: 49h 56min 0s
+Memoria total: 7.90 Gb
+Memoria Livre: 3.94 Gb
+Porcentagem utilizada: 50.17%
+-----------
+
+
+Plataforma: win32
+Arquitetura: x64
+CPU: Intel(R) Celeron(R) CPU  J1800  @ 2.41GHz
+Tempo de atividade: 49h 56min 1s
+Memoria total: 7.90 Gb
+Memoria Livre: 3.94 Gb
+Porcentagem utilizada: 50.13%
+-----------
+
+
+Plataforma: win32
+Arquitetura: x64
+CPU: Intel(R) Celeron(R) CPU  J1800  @ 2.41GHz
+Tempo de atividade: 49h 56min 2s
+Memoria total: 7.90 Gb
+Memoria Livre: 3.94 Gb
+Porcentagem utilizada: 50.15%
+-----------
+
+
+Plataforma: win32
+Arquitetura: x64
+CPU: Intel(R) Celeron(R) CPU  J1800  @ 2.41GHz
+Tempo de atividade: 49h 56min 3s
+Memoria total: 7.90 Gb
+Memoria Livre: 3.94 Gb
+Porcentagem utilizada: 50.06%
+-----------
+
+
+Plataforma: win32
+Arquitetura: x64
+CPU: Intel(R) Celeron(R) CPU  J1800  @ 2.41GHz
+Tempo de atividade: 49h 56min 4s
+Memoria total: 7.90 Gb
+Memoria Livre: 3.94 Gb
+Porcentagem utilizada: 50.08%
+-----------
+
+
+Plataforma: win32
+Arquitetura: x64
+CPU: Intel(R) Celeron(R) CPU  J1800  @ 2.41GHz
+Tempo de atividade: 49h 56min 5s
+Memoria total: 7.90 Gb
+Memoria Livre: 3.94 Gb
+Porcentagem utilizada: 50.07%
+-----------
+
+
+Plataforma: win32
+Arquitetura: x64
+CPU: Intel(R) Celeron(R) CPU  J1800  @ 2.41GHz
+Tempo de atividade: 49h 56min 6s
+Memoria total: 7.90 Gb
+Memoria Livre: 3.94 Gb
+Porcentagem utilizada: 50.06%
+-----------
+
+
+Plataforma: win32
+Arquitetura: x64
+CPU: Intel(R) Celeron(R) CPU  J1800  @ 2.41GHz
+Tempo de atividade: 49h 56min 7s
+Memoria total: 7.90 Gb
+Memoria Livre: 3.94 Gb
+Porcentagem utilizada: 50.05%
+-----------
+
+
+Plataforma: win32
+Arquitetura: x64
+CPU: Intel(R) Celeron(R) CPU  J1800  @ 2.41GHz
+Tempo de atividade: 49h 56min 8s
+Memoria total: 7.90 Gb
+Memoria Livre: 3.94 Gb
+Porcentagem utilizada: 50.06%
+-----------
+
+
+Plataforma: win32
+Arquitetura: x64
+CPU: Intel(R) Celeron(R) CPU  J1800  @ 2.41GHz
+Tempo de atividade: 49h 56min 9s
+Memoria total: 7.90 Gb
+Memoria Livre: 3.95 Gb
+Porcentagem utilizada: 50.05%
+-----------
+
+
+Plataforma: win32
+Arquitetura: x64
+CPU: Intel(R) Celeron(R) CPU  J1800  @ 2.41GHz
+Tempo de atividade: 49h 56min 10s
+Memoria total: 7.90 Gb
+Memoria Livre: 3.94 Gb
+Porcentagem utilizada: 50.06%
+-----------
+
+
+Plataforma: win32
+Arquitetura: x64
+CPU: Intel(R) Celeron(R) CPU  J1800  @ 2.41GHz
+Tempo de atividade: 49h 56min 12s
+Memoria total: 7.90 Gb
+Memoria Livre: 3.94 Gb
+Porcentagem utilizada: 50.10%
+-----------
+
+
+Plataforma: win32
+Arquitetura: x64
+CPU: Intel(R) Celeron(R) CPU  J1800  @ 2.41GHz
+Tempo de atividade: 49h 56min 13s
+Memoria total: 7.90 Gb
+Memoria Livre: 3.94 Gb
+Porcentagem utilizada: 50.16%
+-----------
+
+
+Plataforma: win32
+Arquitetura: x64
+CPU: Intel(R) Celeron(R) CPU  J1800  @ 2.41GHz
+Tempo de atividade: 49h 56min 14s
+Memoria total: 7.90 Gb
+Memoria Livre: 3.94 Gb
+Porcentagem utilizada: 50.16%
+-----------
+
+
+Plataforma: win32
+Arquitetura: x64
+CPU: Intel(R) Celeron(R) CPU  J1800  @ 2.41GHz
+Tempo de atividade: 49h 56min 15s
+Memoria total: 7.90 Gb
+Memoria Livre: 3.94 Gb
+Porcentagem utilizada: 50.17%
+-----------
+
+
+Plataforma: win32
+Arquitetura: x64
+CPU: Intel(R) Celeron(R) CPU  J1800  @ 2.41GHz
+Tempo de atividade: 49h 56min 16s
+Memoria total: 7.90 Gb
+Memoria Livre: 3.94 Gb
+Porcentagem utilizada: 50.08%
+-----------
+
+
+Plataforma: win32
+Arquitetura: x64
+CPU: Intel(R) Celeron(R) CPU  J1800  @ 2.41GHz
+Tempo de atividade: 49h 56min 17s
+Memoria total: 7.90 Gb
+Memoria Livre: 3.94 Gb
+Porcentagem utilizada: 50.06%
+-----------
+
+
+Plataforma: win32
+Arquitetura: x64
+CPU: Intel(R) Celeron(R) CPU  J1800  @ 2.41GHz
+Tempo de atividade: 49h 56min 18s
+Memoria total: 7.90 Gb
+Memoria Livre: 3.93 Gb
+Porcentagem utilizada: 50.29%
+-----------
+
+
+Plataforma: win32
+Arquitetura: x64
+CPU: Intel(R) Celeron(R) CPU  J1800  @ 2.41GHz
+Tempo de atividade: 49h 56min 19s
+Memoria total: 7.90 Gb
+Memoria Livre: 3.94 Gb
+Porcentagem utilizada: 50.16%
+-----------
+
+
+Plataforma: win32
+Arquitetura: x64
+CPU: Intel(R) Celeron(R) CPU  J1800  @ 2.41GHz
+Tempo de atividade: 49h 56min 20s
+Memoria total: 7.90 Gb
+Memoria Livre: 3.93 Gb
+Porcentagem utilizada: 50.28%
+-----------
+
+
+Plataforma: win32
+Arquitetura: x64
+CPU: Intel(R) Celeron(R) CPU  J1800  @ 2.41GHz
+Tempo de atividade: 49h 56min 21s
+Memoria total: 7.90 Gb
+Memoria Livre: 3.93 Gb
+Porcentagem utilizada: 50.26%
+-----------
+
+
+Plataforma: win32
+Arquitetura: x64
+CPU: Intel(R) Celeron(R) CPU  J1800  @ 2.41GHz
+Tempo de atividade: 49h 56min 22s
+Memoria total: 7.90 Gb
+Memoria Livre: 3.93 Gb
+Porcentagem utilizada: 50.27%
+-----------
+
+

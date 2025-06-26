@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <!-- Responsividade para dispositivos móveis -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Título dinâmico vindo da variável 'title' passada no res.render() -->
+    <title><%= title %></title>
+</head>
+<body>
+
+    <!-- Título fixo da página -->
+    <h1>Renderizando HTML dinamico com EJS</h1>
+
+    <!-- Parágrafo com conteúdo dinâmico -->
+    <p>
+        <!-- Exibe o conteúdo da variável 'message' -->
+        <%= message %>
+
+        <!-- Condicional EJS: se for verdadeiro (no exemplo está fixo como true) -->
+        <% if(true) { %>
+            <!-- Este parágrafo só aparece se a condição for verdadeira -->
+            <p>Verdadeiro</p>
+        <% } %>
+
+        <!-- Laço de repetição de 0 até 10 -->
+        <% for(let index = 0; index <= 10; index++) { %>
+            <!-- Mostra o número atual da contagem -->
+            <p>Contagem: <%= index %></p>
+        <% } %>
+    </p>
+
+</body>
+</html>
