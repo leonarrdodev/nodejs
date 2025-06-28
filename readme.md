@@ -1,10 +1,10 @@
-# 🧠 Estudos de Backend com Node.js
+# Estudos de Backend com Node.js
 
 Este repositório contém meus estudos e experimentos práticos com **Node.js**, voltados para desenvolvimento backend. Ele está organizado por pastas numeradas que representam os módulos e conteúdos que venho aprendendo e praticando ao longo da jornada.
 
 ---
 
-## 📂 Estrutura do Repositório
+## Estrutura do Repositório
 
 Cada pasta representa um tema ou aula prática:
 
@@ -31,17 +31,17 @@ Cada pasta representa um tema ou aula prática:
 
 ---
 
-## 🚀 Tecnologias usadas
+## Tecnologias usadas
 
 - **Node.js**
 - **Express.js**
 - **EJS** (template engine)
 - Módulos nativos: `fs`, `path`, `os`, `http`, etc.
-- Outros módulos: `express`, `ejs`
+
 
 ---
 
-## 💡 Objetivo
+## Objetivo
 
 Este repositório é **pessoal** e serve como um **registro de aprendizado prático**, experimentações e testes. O foco é aplicar o que estou estudando em:
 
@@ -53,10 +53,10 @@ Este repositório é **pessoal** e serve como um **registro de aprendizado prát
 
 ---
 
-🧑‍💻 Autor
+Autor
 Leonardo
-Estudante de Análise e Desenvolvimento de Sistemas | Apaixonado por backend e tecnologia 🚀
+Estudante de Análise e Desenvolvimento de Sistemas | Apaixonado por backend e tecnologia 
 GitHub: @leonarrdodev
 
-📅 Atualizações
+Atualizações
 O repositório está em constante evolução conforme avanço nos estudos.
