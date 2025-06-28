@@ -26,6 +26,7 @@ Cada pasta representa um tema ou aula prática:
 | `13- Express/`            | Primeiros passos com Express.js |
 | `14- retornandoArquivos/` | Servindo arquivos com Express |
 | `15- arquivosDinamicos/`  | EJS e conteúdo HTML dinâmico com templates |
+| `16- PostERedireionamentos/`| Metodo POST e redirecionamento |
 
 ---
 
