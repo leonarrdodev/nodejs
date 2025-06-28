@@ -5,7 +5,7 @@ const app = express();
 
 //Array que armazenara os emails 
 const storedEmails = [];
-
+let currentEmail
 
 app.set('view engine', 'ejs');
 app.set('views', path.join(__dirname, 'views'));
@@ -16,15 +16,20 @@ app.get('/', (req, res) => {
 })
 
 app.post('/register', (req, res) => {
-    const email = req.body.email;
-
-    storedEmails.push(email);
+    currentEmail = req.body.email;
+    storedEmails.push({email: currentEmail});
+    console.log(storedEmails);
+    
     res.redirect('/registerSuccess');
 
 })
 
 app.get('/registerSuccess', (req, res) => {
-    res.render('register', {emails: storedEmails});
+    res.render('register', {email: currentEmail});
+})
+
+app.get('/allEmails', (req, res) => {
+    res.render('allEmails', {emails: storedEmails})
 })
 
 const PORT = 3000;
