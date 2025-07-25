@@ -9,6 +9,7 @@ router.get('/posts/:id', postsController.show)
 
 //rotas do admin
 router.get('/admin', adminController.index)
-
+router.get('/admin/create', adminController.create)
+router.post('/admin/create', adminController.createPost)
 
 module.exports = router
