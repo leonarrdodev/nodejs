@@ -28,6 +28,7 @@ Cada pasta representa um tema ou aula prática:
 | `15- arquivos-dinamicos/`  | EJS e conteúdo HTML dinâmico com templates |
 | `16- post-e-redireionamentos/`| Metodo POST e redirecionamento |
 | `17- Exe-lista-email` | Exercicio sobre EJS e Express
+| `18- blog-com-MVC` | Criação de um blog simples para exercicio da arquitetura MVC
 
 ---
 
