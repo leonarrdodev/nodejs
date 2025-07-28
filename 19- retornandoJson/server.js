@@ -5,3 +5,4 @@ const games = [
   { id: 4, name: 'Sonic Adventure 2', genres: ['platformer'], year: 2001 },
   { id: 5, name: 'Age of Empires 2', genres: ['real-time-strategy'], year: 1999 }
 ]
+

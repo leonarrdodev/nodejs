@@ -1,4 +1,5 @@
 const postModel = require("../models/postModel")
+const { post } = require("../routes")
 
 const adminController = {
     //GET /admin
@@ -18,12 +19,28 @@ const adminController = {
 
         postModel.savePost(post)    
         res.redirect('/admin')
-    }
+    },
     //GET /admin/edit/:id
+    edit: (req, res) => {
+        const id = req.params.id
+        const post = postModel.getPostById(id)
+        res.render('editPostForm', {post})
+    },
 
     //POST /admin/update/:id
+    update: (req, res) => {
+        const id = req.params.id
+        const {title, content} = req.body
+        postModel.updatePost(id, {title, content})
+        res.redirect('/admin')
+    },
 
     //POST /admin/delete/:id
+    delete: (req, res) => {
+        const id = req.params.id
+        postModel.deletePost(id)
+        res.redirect('/admin')
+    }
 }
 
 
